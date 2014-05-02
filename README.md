@@ -1,6 +1,19 @@
 # Windoser
 
-TODO: Write a gem description
+**Hello, Windows application developer!!**
+
+Or going make now? But, take a huge effort to understand for `Windows API`...
+
+`Microsoft Visual C++`? or `Microsoft Visual C#`? or `Microsoft Visual Basic`?
+
+...Do I have to learn the New programming Language? And be must well aware the Windows API?
+
+**Why the must pay a lot of effort for display the window of ONLY ONE!!** :angry::angry:
+
+   *"If can wrote `Windows applications` easily in Ruby ..."*
+
+If you thought that, please use this Gem Library.
+Maybe will make you happy.
 
 ## Installation
 

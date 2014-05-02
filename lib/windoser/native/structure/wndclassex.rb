@@ -3,6 +3,7 @@ module Windoser
     module Structure
       class Wndclassex
         def initialize(args)
+          @args = args
         end
       end
     end

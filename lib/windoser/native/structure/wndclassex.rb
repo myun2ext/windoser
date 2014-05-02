@@ -5,6 +5,9 @@ module Windoser
         def initialize(args)
           @args = args
         end
+
+        def pack
+        end
       end
     end
   end

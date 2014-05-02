@@ -9,3 +9,17 @@ module Windoser
     end
   end
 end
+
+#
+# UINT      cbSize;
+# UINT      style;
+# WNDPROC   lpfnWndProc;
+# int       cbClsExtra;
+# int       cbWndExtra;
+# HINSTANCE hInstance;
+# HICON     hIcon;
+# HCURSOR   hCursor;
+# HBRUSH    hbrBackground;
+# LPCTSTR   lpszMenuName;
+# LPCTSTR   lpszClassName;
+# HICON     hIconSm;
